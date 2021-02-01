@@ -407,7 +407,7 @@
                {
                 "host": "armv7l-linux-gnu",
                 "archiveFileName": "micronucleus-2.0a4-raspi.tar.gz",
-                "url": "https://github.com/bdomokos74/attiny-experiment/releases/download/1.0/micronucleus-2.0a4-linux64.tar.gz",
+                "url": "https://github.com/bdomokos74/attiny-experiment/releases/download/1.0/micronucleus-2.0a4-raspi.tar.gz",
                 "checksum": "SHA-256:E6504BD4942C357FD56F17D87556CFDBB8E94E6D170C816D79D6D75B7D6B5911",
                 "size": "26744"
               }
